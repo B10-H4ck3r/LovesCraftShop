@@ -1,0 +1,87 @@
+/*
+Import Google Fonts;
+font-family: 'Audiowide', cursive;
+
+font-family: 'Cinzel', serif;
+
+font-family: 'Indie Flower', cursive;
+
+font-family: 'Redressed', cursive;
+
+font-family: 'Righteous', cursive;
+
+font-family: 'Ultra', serif;
+*/
+
+.car_freshie_txt
+{
+  color: #FFF;
+  font-family: 'Redressed', cursive;
+  font-size: 25px;
+  text-decoration: overline;
+  text-shadow: 8px 8px 12px #000;
+}
+
+.hme_txt
+{
+  font-family: 'Cinzel', serif;
+  color: #FFF;
+  text-shadow: 8px 8px 10px #000;
+  font-size: 25px;
+}
+
+.hme_txt a
+{
+  color: #FFF;
+  cursor: crosshair;
+}
+
+.ftr_intel
+{
+  font-family: 'Audiowide', cursive;
+  font-size: 25px;
+  color: #FFF;
+  text-shadow: 8px 8px 12px #000;
+  text-decoration: overline;
+}
+
+.ftr_intel a
+{
+  color: white;
+  font-family: 'Ultra', serif;
+  cursor: crosshair;
+}
+
+.flex_right_title
+{
+  font-family: 'Cinzel', serif;
+  font-size: 45px;
+  color: #FFF;
+  text-shadow: 10px 10px 30px #000;
+  text-decoration: underline;
+}
+
+.flex_left_title
+{
+  font-family: 'Redressed', cursive;
+  font-size: 45px;
+  color: #FFF;
+  text-shadow: 10px 10px 30px #000;
+  text-decoration: underline;
+}
+
+a.icon
+{
+  font-size: 45px;
+  color: #FFF;
+  text-shadow: 10px 10px 20px #000;
+  margin-right: 10px;
+}
+
+a.icon:hover
+{
+  font-size: 65px;
+  color: #0F0;
+  text-shadow: 15px 15px 20px #000;
+  margin-right: 15px;
+}
